@@ -53,7 +53,7 @@ Each list is open for contribution and there are clear instructions on how you c
 - [Reddit Multis](https://github.com/learn-anything/reddit-multi#interesting-reddit-multis--)
 
 ## More lists
-- [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+- [Awesome lists](https://github.com/sindresorhus/awesome)
 - [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ## Contributing
