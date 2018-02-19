@@ -1,4 +1,4 @@
-# Curated lists [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Curated lists
 This is a list of interesting curated lists on various topics.
 
 Each list is open for contribution and there are clear instructions on how you can help in each of the lists.
