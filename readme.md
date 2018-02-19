@@ -1,7 +1,7 @@
 # Curated lists [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 This is a list of interesting curated lists on various topics similar to [awesome lists](https://github.com/sindresorhus/awesome).
 
-Each list is open for contribution and there are clear instructions on how you can do it in each of the lists.
+Each list is open for contribution and there are clear instructions on how you can help in each of the lists.
 
 - [Learn](#learn)
 - [Tools](#tools)
