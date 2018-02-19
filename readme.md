@@ -42,6 +42,7 @@ This is a list of interesting curated lists on various topics similar to [awesom
 
 ## More lists
 - [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+- [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
