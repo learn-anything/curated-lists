@@ -37,7 +37,7 @@ Each list is open for contribution and there are clear instructions on how you c
 - [Movies](https://github.com/learn-anything/movies#interesting-movies-)
 - [TV series](https://github.com/learn-anything/tv-series#interesting-tv-series-)
 - [Documentaries](https://github.com/learn-anything/documentaries#interesting-documentaries-)
-- [Youtube](https://github.com/learn-anything/youtube#interesting-youtube-channels-)
+- [Youtube channels](https://github.com/learn-anything/youtube#interesting-youtube-channels-)
 - [Games](https://github.com/learn-anything/games#interesting-games-)
 - [Images](https://github.com/learn-anything/images#interesting-image-albums-)
 
