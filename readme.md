@@ -3,14 +3,6 @@ This is a list of interesting curated lists on various topics.
 
 Each list is open for contribution and there are clear instructions on how you can help in each of the lists.
 
-- [Learn](#learn)
-- [Tools](#tools)
-- [Social](#social)
-- [Entertainment](#entertainment)
-- [Other](#other)
-- [More lists](#more-lists)
-- [Contributing](#contributing)
-
 ## Learn
 - [Books](https://github.com/learn-anything/books#interesting-books-)
 - [Courses](https://github.com/learn-anything/courses#interesting-courses-)
