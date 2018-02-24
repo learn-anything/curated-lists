@@ -51,7 +51,7 @@ Each list is open for contribution and there are clear instructions on how you c
 ## Contributing
 If you wish to contribute, please improve the existing lists that you can find above. There are clear instructions on how you can do that in each of the lists.
 
-Aside from the above lists, you are also encouraged to improve and and make your own lists. You can find many other lists similar to this in [More lists](#more-lists) section.
+Aside from the above lists, you are also encouraged to make your own lists to share. You can find many other lists similar to this in [More lists](#more-lists) section.
 
 Thank you for taking the time to contribute! 💜
 
