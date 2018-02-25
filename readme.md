@@ -23,6 +23,7 @@ Each list is open for contribution and there are clear instructions on how you c
 
 ## Social
 - [Slack groups](https://github.com/learn-anything/slack-groups#interesting-slack-groups-)
+- [Telegram chats](https://github.com/learn-anything/telegram-chats#interesting-telegram-chats-)
 - [Spectrum communities](https://github.com/learn-anything/spectrum#interesting-spectrum-communities-)
 
 ## Entertainment
