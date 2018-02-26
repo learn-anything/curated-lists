@@ -4,51 +4,51 @@ This is a list of interesting curated lists on various topics.
 Each list is open for contribution and there are clear instructions on how you can help in each of the lists.
 
 ## Learn
-- [Books](https://github.com/learn-anything/books#interesting-books-)
-- [Courses](https://github.com/learn-anything/courses#interesting-courses-)
-- [Research Papers](https://github.com/learn-anything/research-papers#interesting-research-papers-)
-- [Blogs](https://github.com/learn-anything/blogs#interesting-blogs-)
-- [Podcasts](https://github.com/learn-anything/podcasts#interesting-podcasts-)
-- [Newsletters](https://github.com/learn-anything/newsletters#interesting-newsletters-)
-- [Talks](https://github.com/learn-anything/talks#interesting-talks-)
-- [Cheat sheets](https://github.com/learn-anything/cheat-sheets#interesting-cheat-sheets-)
+- [Books](https://github.com/learn-anything/books#readme)
+- [Courses](https://github.com/learn-anything/courses#readme)
+- [Research Papers](https://github.com/learn-anything/research-papers#readme)
+- [Blogs](https://github.com/learn-anything/blogs#readme)
+- [Podcasts](https://github.com/learn-anything/podcasts#readme)
+- [Newsletters](https://github.com/learn-anything/newsletters#readme)
+- [Talks](https://github.com/learn-anything/talks#readme)
+- [Cheat sheets](https://github.com/learn-anything/cheat-sheets#readme)
 
 ## Tools
-- [Alfred Workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-)
-- [Programming languages](https://github.com/learn-anything/programming-languages#interesting-programming-languages-)
-- [Command Line Tools](https://github.com/learn-anything/command-line-tools#interesting-command-line-utilities-)
-- [Safari Extensions](https://github.com/learn-anything/safari-extensions#interesting-safari-extensions-)
-- [Chrome Extensions](https://github.com/learn-anything/chrome-extensions#interesting-chrome-extensions-)
-- [Firefox Extensions](https://github.com/learn-anything/firefox-extensions#interesting-firefox-extensions-)
+- [Alfred Workflows](https://github.com/learn-anything/alfred-workflows#readme)
+- [Programming languages](https://github.com/learn-anything/programming-languages#readme)
+- [Command Line Tools](https://github.com/learn-anything/command-line-tools#readme)
+- [Safari Extensions](https://github.com/learn-anything/safari-extensions#readme)
+- [Chrome Extensions](https://github.com/learn-anything/chrome-extensions#readme)
+- [Firefox Extensions](https://github.com/learn-anything/firefox-extensions#readme)
 
 ## Social
-- [Slack groups](https://github.com/learn-anything/slack-groups#interesting-slack-groups-)
-- [Telegram chats](https://github.com/learn-anything/telegram-chats#interesting-telegram-chats-)
-- [Spectrum communities](https://github.com/learn-anything/spectrum#interesting-spectrum-communities-)
+- [Slack groups](https://github.com/learn-anything/slack-groups#readme)
+- [Telegram chats](https://github.com/learn-anything/telegram-chats#readme)
+- [Spectrum communities](https://github.com/learn-anything/spectrum#readme)
 
 ## Entertainment
-- [Movies](https://github.com/learn-anything/movies#interesting-movies-)
-- [TV series](https://github.com/learn-anything/tv-series#interesting-tv-series-)
-- [Documentaries](https://github.com/learn-anything/documentaries#interesting-documentaries-)
-- [Youtube channels](https://github.com/learn-anything/youtube#interesting-youtube-channels-)
-- [Games](https://github.com/learn-anything/games#interesting-games-)
-- [Images](https://github.com/learn-anything/images#interesting-image-albums-)
+- [Movies](https://github.com/learn-anything/movies#readme)
+- [TV series](https://github.com/learn-anything/tv-series#readme)
+- [Documentaries](https://github.com/learn-anything/documentaries#readme)
+- [Youtube channels](https://github.com/learn-anything/youtube#readme)
+- [Games](https://github.com/learn-anything/games#readme)
+- [Images](https://github.com/learn-anything/images#readme)
 
 ## Other
-- [Websites](https://github.com/learn-anything/websites#interesting-websites-)
-- [Humans](https://github.com/learn-anything/humans#interesting-humans-)
-- [Quotes](https://github.com/learn-anything/quotes#interesting-quotes-)
-- [macOS apps](https://github.com/learn-anything/macos-apps#interesting-macos-apps-)
-- [iOS apps](https://github.com/learn-anything/ios-apps#interesting-ios-apps-)
-- [Quora](https://github.com/learn-anything/quora#quora-communities-)
-- [Mind maps](https://github.com/learn-anything/mindmaps#interesting-mind-maps-)
-- [Stack Exchange sites](https://github.com/learn-anything/stack-exchange#interesting-stack-exchange-sites-)
-- [Reddit subreddits](https://github.com/learn-anything/reddit#interesting-reddit-subreddits-)
-- [Reddit Multis](https://github.com/learn-anything/reddit-multi#interesting-reddit-multis-)
+- [Websites](https://github.com/learn-anything/websites#readme)
+- [Humans](https://github.com/learn-anything/humans#readme)
+- [Quotes](https://github.com/learn-anything/quotes#readme)
+- [macOS apps](https://github.com/learn-anything/macos-apps#readme)
+- [iOS apps](https://github.com/learn-anything/ios-apps#readme)
+- [Quora](https://github.com/learn-anything/quora#readme)
+- [Mind maps](https://github.com/learn-anything/mindmaps#readme)
+- [Stack Exchange sites](https://github.com/learn-anything/stack-exchange#readme)
+- [Reddit subreddits](https://github.com/learn-anything/reddit#readme)
+- [Reddit Multis](https://github.com/learn-anything/reddit-multi#readme)
 
 ## More lists
 - [Awesome lists](https://github.com/sindresorhus/awesome#contents)
-- [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness#awesome-awesomeness)
+- [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)
 
 ## Contributing
 If you wish to contribute, please improve the existing lists that you can find above. There are clear instructions on how you can do that in each of the lists.
