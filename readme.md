@@ -47,7 +47,7 @@ Each list is open for contribution and there are clear instructions on how you c
 - [Reddit Multis](https://github.com/learn-anything/reddit-multi#readme)
 
 ## More lists
-- [Awesome lists](https://github.com/sindresorhus/awesome#contents)
+- [Awesome lists](https://github.com/sindresorhus/awesome#readme)
 - [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)
 
 ## Contributing
