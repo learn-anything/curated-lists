@@ -39,7 +39,7 @@ Each list is open for contribution and there are clear instructions on how you c
 - [Movies](https://github.com/learn-anything/movies#readme)
 - [TV series](https://github.com/learn-anything/tv-series#readme)
 - [Documentaries](https://github.com/learn-anything/documentaries#readme)
-- [Youtube channels](https://github.com/learn-anything/youtube#readme)
+- [YouTube channels](https://github.com/learn-anything/youtube#readme)
 - [Games](https://github.com/learn-anything/games#readme)
 - [Images](https://github.com/learn-anything/images#readme)
 
