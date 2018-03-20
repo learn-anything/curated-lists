@@ -31,6 +31,7 @@ Each list is open for contribution and there are clear instructions on how you c
 - [Firefox Extensions](https://github.com/learn-anything/firefox-extensions#readme)
 
 ## Social
+- [Forums](https://github.com/learn-anything/forums#readme)
 - [Slack groups](https://github.com/learn-anything/slack-groups#readme)
 - [Telegram groups](https://github.com/learn-anything/telegram-groups#readme)
 - [Spectrum communities](https://github.com/learn-anything/spectrum#readme)
