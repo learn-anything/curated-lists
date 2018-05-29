@@ -10,7 +10,6 @@ Each list is open for contribution and there are clear instructions on how you c
 - [Entertainment](#entertainment)
 - [Other](#other)
 - [More lists](#more-lists)
-- [Contributing](#contributing)
 
 ## Learn
 - [Books](https://github.com/learn-anything/books#readme)
