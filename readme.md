@@ -1,5 +1,5 @@
 # Curated lists
-> Interesting curated lists on various topics
+> Curated lists on various topics
 
 Each list is open for contribution and there are clear instructions on how you can help in each of the lists.
 
