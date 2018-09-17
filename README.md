@@ -35,6 +35,7 @@ Each list is open for contribution and there are clear instructions on how you c
 
 ## Social
 
+- [Events](https://github.com/learn-anything/events#readme)
 - [Forums](https://github.com/learn-anything/forums#readme)
 - [Slack groups](https://github.com/learn-anything/slack-groups#readme)
 - [Telegram groups](https://github.com/learn-anything/telegram-groups#readme)
