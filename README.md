@@ -8,10 +8,10 @@
 
 - [Entertainment](#entertainment)
 - [Learn](#learn)
-- [More lists](#more-lists)
-- [Other](#other)
 - [Social](#social)
 - [Tools](#tools)
+- [Other](#other)
+- [More lists](#more-lists)
 
 ---
 
@@ -35,24 +35,6 @@
 - [Research Papers](https://github.com/learn-anything/research-papers#readme)
 - [Talks](https://github.com/learn-anything/talks#readme)
 
-## More lists
-
-- [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)
-- [Awesome lists](https://github.com/sindresorhus/awesome#readme)
-
-## Other
-
-- [Humans](https://github.com/learn-anything/humans#readme)
-- [Mind maps](https://github.com/learn-anything/mindmaps#readme)
-- [Quora](https://github.com/learn-anything/quora#readme)
-- [Quotes](https://github.com/learn-anything/quotes#readme)
-- [Reddit Multis](https://github.com/learn-anything/reddit-multi#readme)
-- [Reddit subreddits](https://github.com/learn-anything/reddit#readme)
-- [Stack Exchange sites](https://github.com/learn-anything/stack-exchange#readme)
-- [Websites](https://github.com/learn-anything/websites#readme)
-- [iOS apps](https://github.com/learn-anything/ios-apps#readme)
-- [macOS apps](https://github.com/learn-anything/macos-apps#readme)
-
 ## Social
 
 - [Events](https://github.com/learn-anything/events#readme)
@@ -69,3 +51,24 @@
 - [Firefox Extensions](https://github.com/learn-anything/firefox-extensions#readme)
 - [Programming languages](https://github.com/learn-anything/programming-languages#readme)
 - [Safari Extensions](https://github.com/learn-anything/safari-extensions#readme)
+
+---
+
+## Other
+
+- [Humans](https://github.com/learn-anything/humans#readme)
+- [Mind maps](https://github.com/learn-anything/mindmaps#readme)
+- [Quora](https://github.com/learn-anything/quora#readme)
+- [Quotes](https://github.com/learn-anything/quotes#readme)
+- [Reddit Multis](https://github.com/learn-anything/reddit-multi#readme)
+- [Reddit subreddits](https://github.com/learn-anything/reddit#readme)
+- [Stack Exchange sites](https://github.com/learn-anything/stack-exchange#readme)
+- [Websites](https://github.com/learn-anything/websites#readme)
+- [iOS apps](https://github.com/learn-anything/ios-apps#readme)
+- [macOS apps](https://github.com/learn-anything/macos-apps#readme)
+
+
+## More lists
+
+- [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)
+- [Awesome lists](https://github.com/sindresorhus/awesome#readme)
