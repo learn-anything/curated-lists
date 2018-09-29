@@ -50,8 +50,6 @@
 - [Programming languages](https://github.com/learn-anything/programming-languages#readme)
 - [Safari Extensions](https://github.com/learn-anything/safari-extensions#readme)
 
----
-
 ## Other
 
 - [Humans](https://github.com/learn-anything/humans#readme)
