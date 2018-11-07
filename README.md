@@ -53,6 +53,7 @@
 ## Other
 
 - [Humans](https://github.com/learn-anything/humans#readme)
+- [iOS apps](https://github.com/learn-anything/ios-apps#readme)
 - [MacOS apps](https://github.com/learn-anything/macos-apps#readme)
 - [Mind maps](https://github.com/learn-anything/mindmaps#readme)
 - [Quora](https://github.com/learn-anything/quora#readme)
@@ -61,8 +62,6 @@
 - [Reddit subreddits](https://github.com/learn-anything/reddit#readme)
 - [Stack Exchange sites](https://github.com/learn-anything/stack-exchange#readme)
 - [Websites](https://github.com/learn-anything/websites#readme)
-- [iOS apps](https://github.com/learn-anything/ios-apps#readme)
-
 
 ## More lists
 
