@@ -4,23 +4,14 @@
 
 #### Contents
 
-- [Entertainment](#entertainment)
 - [Learn](#learn)
-- [Social](#social)
 - [Tools](#tools)
+- [Social](#social)
+- [Entertainment](#entertainment)
 - [Other](#other)
 - [More lists](#more-lists)
 
 ---
-
-## Entertainment
-
-- [Documentaries](https://github.com/learn-anything/documentaries#readme)
-- [Games](https://github.com/learn-anything/games#readme)
-- [Images](https://github.com/learn-anything/images#readme)
-- [Movies](https://github.com/learn-anything/movies#readme)
-- [TV series](https://github.com/learn-anything/tv-series#readme)
-- [YouTube channels](https://github.com/learn-anything/youtube#readme)
 
 ## Learn
 
@@ -33,14 +24,6 @@
 - [Research Papers](https://github.com/learn-anything/research-papers#readme)
 - [Talks](https://github.com/learn-anything/talks#readme)
 
-## Social
-
-- [Events](https://github.com/learn-anything/events#readme)
-- [Forums](https://github.com/learn-anything/forums#readme)
-- [Slack groups](https://github.com/learn-anything/slack-groups#readme)
-- [Spectrum communities](https://github.com/learn-anything/spectrum#readme)
-- [Telegram groups](https://github.com/learn-anything/telegram-groups#readme)
-
 ## Tools
 
 - [Alfred Workflows](https://github.com/learn-anything/alfred-workflows#readme)
@@ -49,6 +32,23 @@
 - [Firefox Extensions](https://github.com/learn-anything/firefox-extensions#readme)
 - [Programming languages](https://github.com/learn-anything/programming-languages#readme)
 - [Safari Extensions](https://github.com/learn-anything/safari-extensions#readme)
+
+## Social
+
+- [Events](https://github.com/learn-anything/events#readme)
+- [Forums](https://github.com/learn-anything/forums#readme)
+- [Slack groups](https://github.com/learn-anything/slack-groups#readme)
+- [Spectrum communities](https://github.com/learn-anything/spectrum#readme)
+- [Telegram groups](https://github.com/learn-anything/telegram-groups#readme)
+
+## Entertainment
+
+- [Documentaries](https://github.com/learn-anything/documentaries#readme)
+- [Games](https://github.com/learn-anything/games#readme)
+- [Images](https://github.com/learn-anything/images#readme)
+- [Movies](https://github.com/learn-anything/movies#readme)
+- [TV series](https://github.com/learn-anything/tv-series#readme)
+- [YouTube channels](https://github.com/learn-anything/youtube#readme)
 
 ## Other
 
