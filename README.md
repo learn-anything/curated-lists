@@ -48,7 +48,7 @@
 - [Images](https://github.com/learn-anything/images#readme)
 - [Movies](https://github.com/learn-anything/movies#readme)
 - [TV Series](https://github.com/learn-anything/tv-series#readme)
-- [YouTube channels](https://github.com/learn-anything/youtube#readme)
+- [YouTube Channels](https://github.com/learn-anything/youtube#readme)
 
 ## Other
 
