@@ -1,4 +1,4 @@
-# Curated lists
+# Curated Lists
 
 ---
 
@@ -9,7 +9,7 @@
 - [Social](#social)
 - [Entertainment](#entertainment)
 - [Other](#other)
-- [More lists](#more-lists)
+- [More Lists](#more-lists)
 
 ---
 
@@ -17,7 +17,7 @@
 
 - [Blogs](https://github.com/learn-anything/blogs#readme)
 - [Books](https://github.com/learn-anything/books#readme)
-- [Cheat sheets](https://github.com/learn-anything/cheat-sheets#readme)
+- [Cheat Sheets](https://github.com/learn-anything/cheat-sheets#readme)
 - [Courses](https://github.com/learn-anything/courses#readme)
 - [Newsletters](https://github.com/learn-anything/newsletters#readme)
 - [Podcasts](https://github.com/learn-anything/podcasts#readme)
@@ -30,16 +30,16 @@
 - [Chrome Extensions](https://github.com/learn-anything/chrome-extensions#readme)
 - [Command Line Tools](https://github.com/learn-anything/command-line-tools#readme)
 - [Firefox Extensions](https://github.com/learn-anything/firefox-extensions#readme)
-- [Programming languages](https://github.com/learn-anything/programming-languages#readme)
+- [Programming Languages](https://github.com/learn-anything/programming-languages#readme)
 - [Safari Extensions](https://github.com/learn-anything/safari-extensions#readme)
 
 ## Social
 
 - [Events](https://github.com/learn-anything/events#readme)
 - [Forums](https://github.com/learn-anything/forums#readme)
-- [Slack groups](https://github.com/learn-anything/slack-groups#readme)
-- [Spectrum communities](https://github.com/learn-anything/spectrum#readme)
-- [Telegram groups](https://github.com/learn-anything/telegram-groups#readme)
+- [Slack Groups](https://github.com/learn-anything/slack-groups#readme)
+- [Spectrum Communities](https://github.com/learn-anything/spectrum#readme)
+- [Telegram Groups](https://github.com/learn-anything/telegram-groups#readme)
 
 ## Entertainment
 
