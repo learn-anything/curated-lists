@@ -60,13 +60,13 @@
 - [Quotes](https://github.com/learn-anything/quotes#readme)
 - [Reddit Multis](https://github.com/learn-anything/reddit-multi#readme)
 - [Reddit Subreddits](https://github.com/learn-anything/reddit#readme)
-- [Stack Exchange sites](https://github.com/learn-anything/stack-exchange#readme)
+- [Stack Exchange Sites](https://github.com/learn-anything/stack-exchange#readme)
 - [Websites](https://github.com/learn-anything/websites#readme)
 
-## More lists
+## More Lists
 
-- [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)
-- [Awesome lists](https://github.com/sindresorhus/awesome#readme)
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)
+- [Awesome Lists](https://github.com/sindresorhus/awesome#readme)
 
 ---
 
