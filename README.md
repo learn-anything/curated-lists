@@ -15,14 +15,14 @@
 
 ## Learn
 
-- [Blogs](https://github.com/learn-anything/blogs#readme)
 - [Books](https://github.com/learn-anything/books#readme)
-- [Cheat sheets](https://github.com/learn-anything/cheat-sheets#readme)
 - [Courses](https://github.com/learn-anything/courses#readme)
+- [Research papers](https://github.com/learn-anything/research-papers#readme)
 - [Newsletters](https://github.com/learn-anything/newsletters#readme)
 - [Podcasts](https://github.com/learn-anything/podcasts#readme)
-- [Research papers](https://github.com/learn-anything/research-papers#readme)
+- [Blogs](https://github.com/learn-anything/blogs#readme)
 - [Talks](https://github.com/learn-anything/talks#readme)
+- [Cheat sheets](https://github.com/learn-anything/cheat-sheets#readme)
 
 ## Tools
 
