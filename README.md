@@ -58,7 +58,6 @@
 - [Mind maps](https://github.com/learn-anything/mindmaps#readme)
 - [Quora](https://github.com/learn-anything/quora#readme)
 - [Quotes](https://github.com/learn-anything/quotes#readme)
-- [Reddit multis](https://github.com/learn-anything/reddit-multi#readme)
 - [Reddit subreddits](https://github.com/learn-anything/reddit#readme)
 - [Stack Exchange sites](https://github.com/learn-anything/stack-exchange#readme)
 - [Websites](https://github.com/learn-anything/websites#readme)
