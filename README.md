@@ -64,8 +64,8 @@
 
 ## More Lists
 
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)
 - [Awesome Lists](https://github.com/sindresorhus/awesome#readme)
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)
 
 ---
 
