@@ -55,7 +55,6 @@
 - [Humans](https://github.com/learn-anything/humans#readme)
 - [iOS apps](https://github.com/learn-anything/ios-apps#readme)
 - [macOS apps](https://github.com/learn-anything/macos-apps#readme)
-- [Mind maps](https://github.com/learn-anything/mindmaps#readme)
 - [Quora](https://github.com/learn-anything/quora#readme)
 - [Quotes](https://github.com/learn-anything/quotes#readme)
 - [Reddit subreddits](https://github.com/learn-anything/reddit#readme)
