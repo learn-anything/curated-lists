@@ -1,14 +1,5 @@
 # Curated Lists
 
-#### Contents
-
-- [Learn](#learn)
-- [Tools](#tools)
-- [Social](#social)
-- [Entertainment](#entertainment)
-- [Other](#other)
-- [More Lists](#more-lists)
-
 ## Learn
 
 - [Books](https://github.com/learn-anything/books#readme)
