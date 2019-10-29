@@ -32,7 +32,6 @@
 
 - [Documentaries](https://github.com/learn-anything/documentaries#readme)
 - [Games](https://github.com/learn-anything/games#readme)
-- [Images](https://github.com/learn-anything/images#readme)
 - [Movies](https://github.com/learn-anything/movies#readme)
 - [TV series](https://github.com/learn-anything/tv-series#readme)
 - [YouTube channels](https://github.com/learn-anything/youtube#readme)
@@ -53,4 +52,4 @@
 - [Awesome Lists](https://github.com/sindresorhus/awesome#readme)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/) [![Twitter](http://bit.ly/latweet)](https://twitter.com/learnanything_)
