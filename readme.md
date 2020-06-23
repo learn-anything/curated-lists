@@ -52,4 +52,4 @@
 - [Awesome Lists](https://github.com/sindresorhus/awesome#readme)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
