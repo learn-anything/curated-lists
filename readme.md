@@ -10,6 +10,7 @@
 - [Blogs](https://github.com/learn-anything/blogs)
 - [Talks](https://github.com/learn-anything/talks)
 - [Cheat sheets](https://github.com/learn-anything/cheat-sheets)
+- [Data Science](https://github.com/open-data-science/ultimate_posts/tree/master/where_to_start)
 
 ## Tools
 
