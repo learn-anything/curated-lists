@@ -19,6 +19,7 @@
 - [Firefox extensions](https://github.com/learn-anything/firefox-extensions)
 - [Programming languages](https://github.com/learn-anything/programming-languages)
 - [Safari extensions](https://github.com/learn-anything/safari-extensions)
+- [Custom ChatGPTs](https://github.com/taranjeet/awesome-gpts/)
 
 ## Social
 
